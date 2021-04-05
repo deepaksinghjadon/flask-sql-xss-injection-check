@@ -23,7 +23,6 @@ setup(
     author='Deepak Singh',
     author_email='',
     description="A Flask extension for SQL XSS Injection check support",
-    long_description=open('README.rst').read(),
     packages=['flask_sql_xss_injection_check'],
     zip_safe=False,
     include_package_data=True,
