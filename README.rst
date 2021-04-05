@@ -1,4 +1,4 @@
-Flask-CORS
+Flask-SQL-XSS-Injection-check
 ==========
 
 |Build Status| |Latest Version| |Supported Python versions|
