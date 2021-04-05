@@ -18,10 +18,10 @@ with open (join(dirname(__file__), 'requirements.txt'), 'r') as f:
 setup(
     name='Flask-SQL-XSS-Injection-Check',
     version=__version__,
-    url='',
+    url='https://github.com/deepaksinghjadon/flask-sql-xss-injection-check',
     license='MIT',
     author='Deepak Singh',
-    author_email='',
+    author_email='deepaksinghjadon@gmail.com',
     description="A Flask extension for SQL XSS Injection check support",
     packages=['flask_sql_xss_injection_check'],
     zip_safe=False,
