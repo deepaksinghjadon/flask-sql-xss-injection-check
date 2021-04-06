@@ -3,8 +3,6 @@ include README.rst
 include requirements.txt
 include LICENSE
 
-recursive-include docs *
-recursive-include examples *.py
 recursive-include tests *.py
 
 prune docs/_build

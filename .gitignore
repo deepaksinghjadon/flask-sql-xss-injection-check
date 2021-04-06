@@ -7,6 +7,7 @@ lib
 venv/
 
 # Python Packages
+.eggs/
 *.egg
 *.egg-info
 bin
